@@ -1,2 +1,0 @@
-# purelyTest
-testing purposes only
